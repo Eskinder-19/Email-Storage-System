@@ -1,2 +1,8 @@
 # Email-Storage-System
-A storage system
+
+This is a GUI that stores emails and passwords. It is a password protected system.
+
+
+# Requirements
+
+tkinter
